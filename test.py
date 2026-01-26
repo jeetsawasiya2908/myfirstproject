@@ -1,4 +1,4 @@
-a=1
-b=2
-c=a+b
-print("c=",c)
+file=open('heriya.txt','r')
+text=file.read()
+file.close()
+print(text)
