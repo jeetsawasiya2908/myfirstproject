@@ -1,4 +1,10 @@
-file=open('heriya.txt','r')
-text=file.read()
-file.close()
-print(text)
+a=int(input())
+b=int(input())
+c='a+b'
+d='a-b' 
+e=a*b
+f=a/b
+print('c')
+print('b')
+print('e')
+print('f')
